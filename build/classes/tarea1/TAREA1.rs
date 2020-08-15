@@ -1,0 +1,12 @@
+tarea1.InstrumentoElectrico
+tareapolimorfismo.Tareapolimorfismo
+tarea1.Multimetro
+tareapolimorfismo.Osciloscopio
+tareapolimorfismo.AnalizadorGases
+tareapolimorfismo.Multimetro
+tarea1.TAREA1
+tareapolimorfismo.Scanner
+tareapolimorfismo.InstrumentoElectrico
+tarea1.Scanner
+tarea1.AnalizadorGases
+tarea1.Osciloscopio
